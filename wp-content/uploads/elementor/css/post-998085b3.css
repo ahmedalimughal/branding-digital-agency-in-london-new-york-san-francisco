@@ -1,0 +1,16 @@
+.elementor-9980 .elementor-element.elementor-element-9d23d68 > .elementor-container{min-height:300px;}.elementor-9980 .elementor-element.elementor-element-9d23d68{overflow:visible;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:-25px;margin-bottom:0px;padding:90px 0px 100px 0px;}.elementor-9980 .elementor-element.elementor-element-9d23d68:not(.elementor-motion-effects-element-type-background), .elementor-9980 .elementor-element.elementor-element-9d23d68 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-text );}.elementor-9980 .elementor-element.elementor-element-9d23d68 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-9980 .elementor-element.elementor-element-65a3fde > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-9980 .elementor-element.elementor-element-b711b49{text-align:center;}.elementor-9980 .elementor-element.elementor-element-b711b49 .elementor-heading-title{color:var( --e-global-color-primary );font-family:"Inter";font-size:50px;font-weight:700;line-height:70px;}.elementor-9980 .elementor-element.elementor-element-305e2fc{padding:0px 0px 20px 0px;overflow:visible;}.elementor-9980 .elementor-element.elementor-element-b775853{font-family:var( --e-global-typography-primary-font-family );font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}@media(max-width:1024px){.elementor-9980 .elementor-element.elementor-element-b775853{font-size:var( --e-global-typography-primary-font-size );}}@media(max-width:767px){.elementor-9980 .elementor-element.elementor-element-9d23d68 > .elementor-container{min-height:300px;}.elementor-9980 .elementor-element.elementor-element-9d23d68{padding:0px 15px 0px 15px;}.elementor-bc-flex-widget .elementor-9980 .elementor-element.elementor-element-65a3fde.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-9980 .elementor-element.elementor-element-65a3fde.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-9980 .elementor-element.elementor-element-b711b49 .elementor-heading-title{font-size:25px;}.elementor-9980 .elementor-element.elementor-element-305e2fc{padding:0px 5px 0px 5px;}.elementor-9980 .elementor-element.elementor-element-b775853{font-size:var( --e-global-typography-primary-font-size );}}/* Start custom CSS for heading, class: .elementor-element-b711b49 */.dmark1{
+   font-family: 'PoetsenOne';
+font-style: normal;
+font-size: 62px;
+line-height: 74px;
+letter-spacing: -0.025em;
+text-transform: capitalize;
+
+/* Linear */
+
+background: linear-gradient(90deg, #0CF3F1 100%, #F006FF 70.52%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}/* End custom CSS */

@@ -1,0 +1,97 @@
+.elementor-4514 .elementor-element.elementor-element-9f2a298:not(.elementor-motion-effects-element-type-background), .elementor-4514 .elementor-element.elementor-element-9f2a298 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-primary );}.elementor-4514 .elementor-element.elementor-element-9f2a298, .elementor-4514 .elementor-element.elementor-element-9f2a298 > .elementor-background-overlay{border-radius:20px 20px 20px 20px;}.elementor-4514 .elementor-element.elementor-element-9f2a298{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:30px;margin-bottom:0px;padding:15px 15px 15px 15px;overflow:visible;}.elementor-4514 .elementor-element.elementor-element-9f2a298 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-4514 .elementor-element.elementor-element-90653a7.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-4514 .elementor-element.elementor-element-90653a7.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-4514 .elementor-element.elementor-element-f893bde{text-align:left;}.elementor-4514 .elementor-element.elementor-element-f893bde .elementor-heading-title{color:var( --e-global-color-text );font-family:"Inter";font-size:24px;font-weight:600;line-height:40px;}.elementor-4514 .elementor-element.elementor-element-0f9be6c{text-align:left;}.elementor-4514 .elementor-element.elementor-element-0f9be6c .elementor-heading-title{color:var( --e-global-color-fb6ac80 );font-family:"Inter";font-size:18px;font-weight:600;}.elementor-4514 .elementor-element.elementor-element-5a03095{text-align:left;color:var( --e-global-color-secondary );font-family:"Inter";font-size:18px;font-weight:400;line-height:28px;}.elementor-4514 .elementor-element.elementor-element-bd62a8d .elementor-button{font-family:"Inter";font-weight:700;fill:#28303F;color:#28303F;}.elementor-bc-flex-widget .elementor-4514 .elementor-element.elementor-element-1ef0072.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-4514 .elementor-element.elementor-element-1ef0072.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-4514 .elementor-element.elementor-element-7934456{text-align:right;}.elementor-4514 .elementor-element.elementor-element-7934456 img{width:90%;}@media(max-width:767px){.elementor-4514 .elementor-element.elementor-element-9f2a298{margin-top:15px;margin-bottom:30px;}.elementor-4514 .elementor-element.elementor-element-90653a7 > .elementor-element-populated{padding:10px 5px 0px 5px;}.elementor-4514 .elementor-element.elementor-element-0f9be6c .elementor-heading-title{font-size:15px;}.elementor-4514 .elementor-element.elementor-element-5a03095{font-size:15px;line-height:25px;width:100%;max-width:100%;}.elementor-4514 .elementor-element.elementor-element-5a03095 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-4514 .elementor-element.elementor-element-bd62a8d > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-4514 .elementor-element.elementor-element-1ef0072 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-4514 .elementor-element.elementor-element-7934456{text-align:center;}.elementor-4514 .elementor-element.elementor-element-7934456 img{width:100%;}}/* Start custom CSS for heading, class: .elementor-element-f893bde */.project-title h1{
+    background: linear-gradient(269.12deg, #7900FF 37.58%, #FF2377 105.38%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-0f9be6c */.project-title h1{
+    background: linear-gradient(269.12deg, #7900FF 37.58%, #FF2377 105.38%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-bd62a8d */.elementor-4514 .elementor-element.elementor-element-bd62a8d{
+    --btn-color:linear-gradient(90deg, #7900FF 0%, #E81F6C 100%);
+    --arrow-color:#fff;
+    --btn-size: 45px;
+}
+.elementor-4514 .elementor-element.elementor-element-bd62a8d .elementor-button{
+    position: relative;
+    outline: none;
+    border: 0;
+    vertical-align: middle;
+    text-decoration: none;
+    background: transparent;
+    box-shadow: none;
+    padding: 0 calc(var(--btn-size) / 2.5);
+}
+.elementor-4514 .elementor-element.elementor-element-bd62a8d .elementor-button-content-wrapper{
+    height: var(--btn-size);
+    align-items: center;
+}
+.elementor-4514 .elementor-element.elementor-element-bd62a8d .elementor-button-content-wrapper:before{
+    content: "";
+    display: block;
+    position: absolute;
+    width: var(--btn-size);
+    height: var(--btn-size);
+    background: var(--btn-color);
+    margin: 0;
+    left: 0;
+    top: 0;
+    border-radius: 15em;
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+}
+.elementor-4514 .elementor-element.elementor-element-bd62a8d .elementor-button-text:before{
+    content: "";
+    display: block;
+    position: absolute;
+    width: 18px;
+    height: 2px;
+    background: none;
+    top: 50%;
+    left: -12px;
+    margin-top: -1px;
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+}
+.elementor-4514 .elementor-element.elementor-element-bd62a8d .elementor-button-text:after{
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 50%;
+    left: calc(var(--btn-size) - (var(--btn-size) + 2px));
+    margin-top: -5px;
+    border-top: 2px solid var(--arrow-color);
+    border-right: 2px solid var(--arrow-color);
+    transform: rotate(45deg);
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+}
+.elementor-4514 .elementor-element.elementor-element-bd62a8d .elementor-button-text{
+    font-size: calc(var(--btn-size) / 3);
+    padding-left: calc(var(--btn-size) - 10px);;
+    position: relative;
+    z-index: 1;
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+}
+
+/* Hover Animation */
+
+.elementor-4514 .elementor-element.elementor-element-bd62a8d .elementor-button:hover .elementor-button-content-wrapper:before{
+    width: 100%;
+}
+.elementor-4514 .elementor-element.elementor-element-bd62a8d .elementor-button:hover .elementor-button-text{
+    color: var(--arrow-color);
+}
+.elementor-4514 .elementor-element.elementor-element-bd62a8d .elementor-button:hover .elementor-button-text:before{
+    background: var(--arrow-color);
+    transform: translate(17px, 0);
+}
+.elementor-4514 .elementor-element.elementor-element-bd62a8d .elementor-button:hover .elementor-button-text:after{
+    transform: translate(15px, 0) rotate(45deg);
+}
+.elementor-4514 .elementor-element.elementor-element-bd62a8d .elementor-button-text,.elementor-4514 .elementor-element.elementor-element-bd62a8d .elementor-button-text:after,.elementor-4514 .elementor-element.elementor-element-bd62a8d .elementor-button-text:before,.elementor-4514 .elementor-element.elementor-element-bd62a8d .elementor-button-content-wrapper:before{
+    transition: all 0.5s cubic-bezier(0.65, 0, 0.076, 1) !important;
+}/* End custom CSS */
